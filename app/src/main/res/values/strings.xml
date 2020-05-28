@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="candra">Hello My Name Is Candra Julius Sinaga</string>
+    <string name="ketagory">Pergi ke kategory</string>
+    <string name="profil">pergi ke profil</string>
+    <string name="kategory_satu">ini adalah kategory</string>
+    <string name="profil_activity">Ini adalah activity profil</string>
+</resources>
